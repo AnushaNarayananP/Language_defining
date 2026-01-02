@@ -440,8 +440,18 @@
   "apply_after": "Apply after",
   "note": "Note",
   "apply_dose_anytime": "Apply dose anytime from days noted",
-  "clear_fertilizer_advice": "Get clear fertilizer advice for every step of your crop's journey."
-
+  "clear_fertilizer_advice": "Get clear fertilizer advice for every step of your crop's journey.",
+  "upcoming": "Upcoming",
+  "upcoming_plans": "Upcoming plans",
+  "starts": "Starts",
+  "ends": "Ends",
+  "due_on": "Due on",
+  "recharge": "Recharge",
+  "view_details": "View details",
+  "ai_chat": "AI chat",
+  "audio": "Audio",
+  "ai_credits_used_up": "You've used all your AI credits this month!",
+  "ai_credits_refresh_note": "Your AI credits will refresh next month, and all other features are still available to explore."
 
 
 } 
